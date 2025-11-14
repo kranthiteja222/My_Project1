@@ -17,6 +17,7 @@ public class Practice {
           j=j+i;
         }
         System.out.println(j);
+        System.out.println("my name is Kranthi");
     }
 
 }
