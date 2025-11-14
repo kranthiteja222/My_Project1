@@ -19,7 +19,7 @@ public class Practice {
         System.out.println(j);
         System.out.println("my name is Kranthi");
         System.out.println("my age is 25");
-
+        System.out.println("my age is 26 after one year");
     }
 
 }
