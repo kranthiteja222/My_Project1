@@ -29,5 +29,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-secret.json
+# ignore all json files
+*.json
 get.log
