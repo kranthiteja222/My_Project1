@@ -31,4 +31,4 @@ bin/
 
 # ignore all json files
 *.json
-get.log:q
+get.log
