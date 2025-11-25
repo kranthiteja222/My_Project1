@@ -47,6 +47,7 @@
     "Application.ArrayLists.executor": "Run",
     "Application.Java.executor": "Run",
     "Application.Main.executor": "Debug",
+    "Application.MethodsDemo.executor": "Run",
     "Application.Practice.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
