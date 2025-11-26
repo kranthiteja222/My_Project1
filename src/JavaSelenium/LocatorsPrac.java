@@ -20,7 +20,6 @@ public class LocatorsPrac {
         action=new Actions(driver);
         action.sendKeys(Keys.ENTER).perform();
         Thread.sleep(2000);
-        driver.findElement(By.className("recaptcha-checkbox-border")).click();
 
 
         driver.close();
