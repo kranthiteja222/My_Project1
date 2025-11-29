@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ddfca30-5c63-4a72-9b30-469d16ef2888" name="Changes" comment="my proj changes" />
+    <list default="true" id="3ddfca30-5c63-4a72-9b30-469d16ef2888" name="Changes" comment="my proj changes">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaSelenium/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSelenium/Assignment1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +38,9 @@
     &quot;accountId&quot;: &quot;844b4839-3d05-4cd8-accd-c82ea76fb078&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -43,20 +52,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayLists.executor": "Run",
+    "Application.Assignment1.executor": "Run",
     "Application.Java.executor": "Run",
     "Application.LocatorsPrac.executor": "Run",
     "Application.Main.executor": "Debug",
     "Application.MethodsDemo.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.StaticDropDown.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/kranthi/IdeaProjects/My_Project1/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
