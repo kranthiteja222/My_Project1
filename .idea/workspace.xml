@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ddfca30-5c63-4a72-9b30-469d16ef2888" name="Changes" comment="my proj changes">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaSelenium/Assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/JavaSelenium/Assignment1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,7 @@
   "keyToString": {
     "Application.ArrayLists.executor": "Run",
     "Application.Assignment1.executor": "Run",
+    "Application.CalenderPresentDate.executor": "Run",
     "Application.Java.executor": "Run",
     "Application.LocatorsPrac.executor": "Run",
     "Application.Main.executor": "Debug",
