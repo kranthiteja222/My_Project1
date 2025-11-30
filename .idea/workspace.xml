@@ -47,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AlertsPrac.executor": "Run",
     "Application.ArrayLists.executor": "Run",
     "Application.Assignment1.executor": "Run",
     "Application.CalenderPresentDate.executor": "Run",
