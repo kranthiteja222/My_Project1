@@ -17,7 +17,8 @@ public class MouseActions {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
         Actions actions= new Actions(driver);
         actions.moveToElement(driver.findElement(By.id("nav-link-accountList-nav-line-1"))).build().perform();
-        actions.moveToElement((driver.findElement(By.id("twotabsearchtextbox")))).click().keyDown(Keys.SHIFT).sendKeys("realme narzo pro").keyUp(Keys.SHIFT).keyDown(Keys.ENTER).build().perform();
+        actions.moveToElement((driver.findElement(By.id("twotabsearchtextbox")))).click().keyDown(Keys.SHIFT).sendKeys("realme narzo pro").keyUp(Keys.SHIFT).build().perform();
+        driver.findElement(By.id("nav-search-submit-button")).click();
     }
 
 }
