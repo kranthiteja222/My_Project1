@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ddfca30-5c63-4a72-9b30-469d16ef2888" name="Changes" comment="my proj changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/My_Project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/My_Project1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Java.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Arrays/Java.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/Java.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaSelenium/FramesAndDragDROP.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaSelenium/FramesAndDragDROP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +73,8 @@
     "Application.RevRightAngleTriangl.executor": "Run",
     "Application.RevString.executor": "Run",
     "Application.Reverse.executor": "Run",
-    "Application.ReverseArray.executor": "Debug",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ScrollPrac.executor": "Run",
     "Application.SearchValue.executor": "Debug",
     "Application.SecondLargest.executor": "Run",
     "Application.SmallNumArray.executor": "Run",
@@ -116,13 +110,26 @@
       <recent name="C:\Users\kranthi\IdeaProjects\My_Project1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseArray">
+  <component name="RunManager" selected="Application.ScrollPrac">
     <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.ReverseArray" />
       <module name="My_Project1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollPrac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSelenium.ScrollPrac" />
+      <module name="My_Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaSelenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +163,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallNumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SmallNumArray" />
-      <module name="My_Project1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.SumOfArray" />
       <module name="My_Project1" />
@@ -184,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScrollPrac" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.SecondLargest" />
         <item itemvalue="Application.SearchValue" />
         <item itemvalue="Application.SumOfArray" />
-        <item itemvalue="Application.SmallNumArray" />
       </list>
     </recent_temporary>
   </component>
