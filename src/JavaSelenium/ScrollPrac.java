@@ -15,8 +15,8 @@ public class ScrollPrac {
     public static void main(String[] args) {
         WebDriver driver= new ChromeDriver();
         driver.manage().window().maximize();
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-        wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".tableFixHead")));
+       // WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        //wait.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".tableFixHead")));
         driver.get("https://rahulshettyacademy.com/AutomationPractice/");
         JavascriptExecutor js= (JavascriptExecutor) driver;
         js.executeScript("window.scrollBy(0,500)");
