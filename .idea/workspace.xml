@@ -7,20 +7,7 @@
     <list default="true" id="3ddfca30-5c63-4a72-9b30-469d16ef2888" name="Changes" comment="my proj changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSelenium/ScrollPrac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaSelenium/ScrollPrac.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaSelenium/ScrollPrac.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaSelenium/ScrollPrac.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/libraries/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/My_Project1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +58,7 @@
     "Application.ArrayLists.executor": "Run",
     "Application.Assignment1.executor": "Run",
     "Application.Assignment2.executor": "Run",
+    "Application.BrokenLinks.executor": "Run",
     "Application.CalenderPresentDate.executor": "Run",
     "Application.Diamond.executor": "Run",
     "Application.Factorial.executor": "Run",
@@ -99,6 +87,7 @@
     "Application.SumOfArray.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.WindowHandles.executor": "Run",
+    "Application.WindowHandles1.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Repository.Attach.Annotations": "false",
@@ -118,7 +107,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -129,9 +118,9 @@
       <recent name="C:\Users\kranthi\IdeaProjects\My_Project1\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HandleHttpsCerti">
-    <configuration name="HandleHttpsCerti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaSelenium.HandleHttpsCerti" />
+  <component name="RunManager" selected="Application.WindowHandles1">
+    <configuration name="BrokenLinks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSelenium.BrokenLinks" />
       <module name="My_Project1" />
       <extension name="coverage">
         <pattern>
@@ -143,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseArray" />
+    <configuration name="HandleHttpsCerti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSelenium.HandleHttpsCerti" />
       <module name="My_Project1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaSelenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SecondLargest" />
+    <configuration name="WindowHandles1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSelenium.WindowHandles1" />
       <module name="My_Project1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaSelenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WindowHandles1" />
+        <item itemvalue="Application.BrokenLinks" />
         <item itemvalue="Application.HandleHttpsCerti" />
         <item itemvalue="Application.ScreenshotPrac" />
         <item itemvalue="Application.ScrollPrac" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.SecondLargest" />
       </list>
     </recent_temporary>
   </component>
